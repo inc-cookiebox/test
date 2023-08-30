@@ -22,11 +22,9 @@
   display: flex;
   justify-content: center;
 }
-.box{
-  width: 400px;
+.box { width: 400px;
   height: 600px;
-  background-color: rebeccapurple;
-}
+  background-color: rgba(0, 255, 0, 0.87); }
 .left{
   text-align: left;
 }
