@@ -26,10 +26,8 @@
   width: 400px;
   height: 600px;
 }
-.left { 
-  text-align: left;
-  color: #ffffff; 
-}
+.left { text-align: left;
+  color: #000000; }
 .right { text-align: left;
   color: #ffffff; }
 .center { text-align: left;
