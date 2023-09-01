@@ -22,14 +22,13 @@
   display: flex;
   justify-content: center;
 }
-.box { 
-  width: 400px;
+.box { width: 400px;
   height: 600px;
-}
+  background-color: #c55b5b; }
 .left { text-align: left;
   color: #ffffff; }
 .right { text-align: left;
-  color: #ffffff; }
+  color: #9f3939; }
 .center { text-align: left;
   color: #ffffff; }
 a {
