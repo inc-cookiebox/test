@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div><div class="title-box"  >
-        <a  >This is a title</a>
+        <a  style="color: #ffffff;">This is a title</a>
       </div>
       <div class="body-box"  >This is a body</div>
       <div class="body-box"  >This is a body</div>
