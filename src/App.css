@@ -27,18 +27,15 @@
   height: 600px;
   background-color: #0fff3d;
 }
-.left {
-  text-align: right;
-  color: #c400ff;
-}
-.right {
-  text-align: right;
-  color: #000000;
-}
-.center {
-  text-align: left;
-  color: #000000;   background-color: #ffffff;
-}
+.left { text-align: left;
+
+  color: #c400ff; }
+.right { text-align: left;
+
+  color: #000000; }
+.center { text-align: right;
+
+  color: #000000;   background-color: #ffffff; }
 a {
   font-weight: 500;
   color: #646cff;
