@@ -6,7 +6,7 @@
   background-color: #242424;
   margin: 0 auto;
 }
-.body-box{
+.body-box {
   margin: 0 auto;
   padding: 0 1.5rem;
   color: #ffffff;
@@ -17,7 +17,7 @@
   font-weight: 500;
   margin-bottom: 1rem;
 }
-.box-box{
+.box-box {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -27,15 +27,19 @@
   height: 600px;
   background-color: #0fff3d;
 }
-.left { text-align: left;
-
-  color: #c400ff; }
-.right { text-align: left;
-
-  color: #000000; }
-.center { text-align: right;
-
-  color: #000000;   background-color: #ffffff; }
+.left {
+  text-align: left;
+  color: #c400ff;
+}
+.right {
+  text-align: left;
+  color: #000000;
+}
+.center {
+  text-align: right;
+  color: #000000;
+  background-color: #ffffff;
+}
 a {
   font-weight: 500;
   color: #646cff;
