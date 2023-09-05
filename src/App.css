@@ -25,18 +25,12 @@
 .box { width: 400px;
   height: 600px;
   background-color: #ffffff; }
-.left { 
-  text-align: left;
-  color: #000000; 
-}
-.right { 
-  text-align: left;
-  color: #000000; 
-}
-.center { 
-  text-align: center;
-  color: #000000; 
-}
+.left { text-align: right;
+  color: #000000; }
+.right { text-align: center;
+  color: #000000; }
+.center { text-align: left;
+  color: #000000; }
 a {
   font-weight: 500;
   color: #646cff;
