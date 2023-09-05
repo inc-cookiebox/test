@@ -22,11 +22,9 @@
   display: flex;
   justify-content: center;
 }
-.box {
-  width: 400px;
+.box { width: 400px;
   height: 600px;
-  background-color: #0fff3d;
-}
+  background-color: #ff0000; }
 .left {
   text-align: left;
   color: #c400ff;
