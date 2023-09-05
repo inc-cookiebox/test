@@ -24,13 +24,13 @@
 }
 .box { width: 400px;
   height: 600px;
-  background-color: #ffffff; }
+  background-color: #0fff3d; }
 .left { text-align: right;
-  color: #000000; }
-.right { text-align: center;
+  color: #c400ff; }
+.right { text-align: right;
   color: #000000; }
 .center { text-align: left;
-  color: #000000; }
+  color: #000000;   background-color: #ffffff; }
 a {
   font-weight: 500;
   color: #646cff;
