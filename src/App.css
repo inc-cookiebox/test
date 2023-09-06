@@ -24,11 +24,11 @@
 }
 .box { width: 400px;
   height: 600px;
-  background-color: #ff0000; }
+  background-color: #d3d3d3; }
 .left { text-align: left;
-  color: #ffffff; }
+  color: rgb(0, 0, 0); }
 .right { text-align: left;
-  color: #ffffff; }
+  color: #000000; }
 .center {
   text-align: right;
   color: #000000;
