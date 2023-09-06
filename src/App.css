@@ -27,11 +27,9 @@
   color: #ffffff; }
 .right { text-align: center;
   color: #ffffff; }
-.center {
-  text-align: right;
-  color: #000000;
-  background-color: #ffffff;
-}
+.center { text-align: right;
+  color: #ffffff;
+  background-color: #ffffff; }
 a {
   font-weight: 500;
   color: #646cff;
