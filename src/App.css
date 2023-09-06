@@ -27,10 +27,8 @@
   background-color: #ff0000; }
 .left { text-align: left;
   color: #ffffff; }
-.right {
-  text-align: left;
-  color: #000000;
-}
+.right { text-align: left;
+  color: #ffffff; }
 .center {
   text-align: right;
   color: #000000;
