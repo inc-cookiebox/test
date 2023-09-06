@@ -26,9 +26,9 @@
   height: 600px;
   background-color: #d3d3d3; }
 .left { text-align: left;
-  color: rgb(0, 0, 0); }
-.right { text-align: left;
-  color: #000000; }
+  color: #ffffff; }
+.right { text-align: center;
+  color: #ffffff; }
 .center {
   text-align: right;
   color: #000000;
