@@ -25,10 +25,8 @@
 .box { width: 400px;
   height: 600px;
   background-color: #ff0000; }
-.left {
-  text-align: left;
-  color: #c400ff;
-}
+.left { text-align: left;
+  color: #000000; }
 .right {
   text-align: left;
   color: #000000;
