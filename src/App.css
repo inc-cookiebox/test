@@ -11,7 +11,7 @@
   padding: 0 1.5rem;
   color: #ffffff;
 }
-.title-box { text-align: left;
+.title-box { text-align: center;
   font-size: 2rem;
   font-weight: 500;
   margin-bottom: 1rem; }
@@ -24,9 +24,9 @@
   height: 600px;
   background-color: #e3c6c6; }
 .left { text-align: left;
-  color: #ffffff; }
-.right { text-align: center;
-  color: #ffffff; }
+  color: #000000; }
+.right { text-align: left;
+  color: #ffffff;   background-color: #ff4848; }
 .center { text-align: right;
   color: #ffffff;
   background-color: #ffffff; }
