@@ -22,10 +22,10 @@
 }
 .box { width: 400px;
   height: 600px;
-  background-color: #20a349; }
-.left { text-align: left;
+  background-color: #ec1313; }
+.left { text-align: center;
   color: #000000; }
-.right { text-align: center;
+.right { text-align: right;
   color: #ffffff;   background-color: #ff4848; }
 .center { text-align: left;
   color: #000000;
