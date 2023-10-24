@@ -20,19 +20,13 @@
   display: flex;
   justify-content: center;
 }
-.box { 
-  width: 400px;
+.box { width: 400px;
   height: 600px;
-  background-color: #ec1313; 
-}
-.left { 
-  text-align: center;
-  color: #000000;
-}
-.right { 
-  text-align: right;
-  color: #ffffff;   background-color: #ff4848;
-}
+  background-color: #bbb1b1; }
+.left { text-align: center;
+  color: #eb0202; }
+.right { text-align: center;
+  color: #000000;   background-color: #ff4848; }
 .center { 
   text-align: left;
   color: #000000;
