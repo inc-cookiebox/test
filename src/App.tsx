@@ -7,7 +7,7 @@ function App() {
     <div><div class="title-box"  >
         <a style="color: #ffffff; text-align: right;" >This is a title</a>
       </div>
-      <div class="body-box" style="text-align: left;" >
+      <div class="body-box" style="text-align: center;" >
         This is a body
       </div>
       <div class="body-box" style="text-align: right;" >
