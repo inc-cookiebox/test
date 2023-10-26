@@ -5,15 +5,15 @@ function App() {
 
   return (
     <div><div class="title-box"  >
-        <a style="color: #ffffff; text-align: right;" >This is a title</a>
+        <a style={{ color: "#ffffff", textAlign: "right" }} >This is a title</a>
       </div>
-      <div class="body-box" style="text-align: right;" >
+      <div class="body-box" style={{ textAlign: "center" }} >
         This is a body
       </div>
-      <div class="body-box" style="text-align: right;" >
+      <div class="body-box" style={{ textAlign: "right" }} >
         This is a body
       </div>
-      <div class="body-box" style="text-align: left;" >
+      <div class="body-box" style={{ textAlign: "left" }} >
         This is a body
       </div>
       <div class="box-box"  >
