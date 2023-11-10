@@ -11,10 +11,10 @@
   padding: 0 1.5rem;
   color: #ffffff;
 }
-.title-box { text-align: center;
+.title-box { text-align: left;
   font-size: 2rem;
   font-weight: 500;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;   margin: 5px; }
 .box-box {
   width: 100%;
   display: flex;
@@ -22,7 +22,7 @@
 }
 .box { width: 400px;
   height: 600px;
-  background-color: #956a6a; }
+  background-color: #36a05b; }
 .left { text-align: center;
   color: #eb0202; }
 .right { text-align: center;
