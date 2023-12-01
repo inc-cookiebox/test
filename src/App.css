@@ -22,16 +22,14 @@
 }
 .box { width: 400px;
   height: 600px;
-  background-color: #348746; }
+  background-color: #ffffff; }
 .left { text-align: center;
-  color: #eb0202; }
+  color: #000000; }
 .right { text-align: center;
-  color: #000000;   background-color: #ff4848; }
-.center { 
-  text-align: left;
-  color: #000000;
-  background-color: #ffffff;
-}
+  color: #000000;   background-color: #ffffff; }
+.center { text-align: left;
+  color: #ffffff;
+  background-color: #000000; }
 a {
   font-weight: 500;
   color: #646cff;
