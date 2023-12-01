@@ -10,7 +10,7 @@ function App() {
       <div class="body-box" style={{ textAlign: "right" }} >
         This is a body
       </div>
-      <div class="body-box" style={{ textAlign: "right" }} >
+      <div class="body-box" style={{ textAlign: "center" }} >
         This is a body
       </div>
       <div class="body-box" style={{ textAlign: "left" }} >
