@@ -22,11 +22,11 @@
 }
 .box { width: 400px;
   height: 600px;
-  background-color: #b00000; }
+  background-color: #ffffff; }
 .left { text-align: center;
-  color: #000000;   background-color: #5dc021; }
+  color: #000000;   background-color: #ffffff; }
 .right { text-align: center;
-  color: #000000;   background-color: #adc00d; }
+  color: #000000;   background-color: #ffffff; }
 .center { text-align: center;
   color: #000000;
   background-color: #ffffff; }
