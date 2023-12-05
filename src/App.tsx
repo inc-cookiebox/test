@@ -7,13 +7,13 @@ function App() {
     <div><div class="title-box"  >
         <a style={{ color: "#ffffff", textAlign: "center" }} >This is a title</a>
       </div>
-      <div class="body-box" style={{ textAlign: "left" }} >
+      <div class="body-box" style={{ textAlign: "center" }} >
         This is a body
       </div>
-      <div class="body-box" style={{ textAlign: "left" }} >
+      <div class="body-box" style={{ textAlign: "center" }} >
         This is a body
       </div>
-      <div class="body-box" style={{ textAlign: "left" }} >
+      <div class="body-box" style={{ textAlign: "center" }} >
         This is a body
       </div>
       <div class="box-box"  >
